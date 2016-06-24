@@ -1,0 +1,1 @@
+<div id="<?php echo $id; ?>" class="panel-collapse collapse in">

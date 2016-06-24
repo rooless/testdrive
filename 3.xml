@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<shiporder orderid="889923"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="tasks.xsd">
+<tasks>
+  <task code="1">
+    <variant answer-type="single" code="1">
+      <question>йййййййййййййййййййй</question>
+      <answers>
+        <answer code="1" correct="no">44</answer>
+        <answer code="2" correct="yes">34</answer>
+        <answer code="3" correct="no">45</answer>
+        <answer code="4" correct="no">56</answer>
+      </answers>
+    </variant>
+  </task>
+  <task code="2">
+    <variant answer-type="single" code="1">
+      <question>Сколько ног у жука?</question>
+      <answers>
+        <answer code="1" correct="no">4</answer>
+        <answer code="2" correct="yes">6</answer>
+        <answer code="3" correct="no">8</answer>
+      </answers>
+    </variant>
+  </task>
+  <task code="4">
+    <variant answer-type="single" code="1">
+      <question>Сколько ног?</question>
+      <answers>
+        <answer code="1" correct="no">1</answer>
+        <answer code="2" correct="yes">2</answer>
+        <answer code="3" correct="no">3</answer>
+      </answers>
+    </variant>
+  </task>
+  <task code="5">
+    <variant answer-type="single" code="1">
+      <question>1212121212121</question>
+      <answers>
+        <answer code="1" correct="no">4</answer>
+        <answer code="2" correct="yes">3</answer>
+        <answer code="3" correct="no">6</answer>
+      </answers>
+    </variant>
+  </task>
+  <task code="7">
+    <variant answer-type="single" code="1">
+      <question>уууууууууууууууууууу</question>
+      <answers>
+        <answer code="1" correct="no">1</answer>
+        <answer code="2" correct="no">2</answer>
+        <answer code="3" correct="yes">3</answer>
+        <answer code="4" correct="no">4</answer>
+        <answer code="5" correct="no">5</answer>
+        <answer code="6" correct="no">6</answer>
+      </answers>
+    </variant>
+  </task>
+  <task code="10">
+    <variant answer-type="single" code="1">
+      <question>1111111</question>
+      <answers>
+        <answer code="1" correct="no">уц</answer>
+        <answer code="2" correct="yes">вы</answer>
+        <answer code="3" correct="no">мс</answer>
+      </answers>
+    </variant>
+  </task>
+  <task code="11">
+    <variant answer-type="multiple" code="1">
+      <question>ммммммммммммммммммммм</question>
+      <answers>
+        <answer code="1" correct="no">2</answer>
+        <answer code="2" correct="yes">3</answer>
+        <answer code="3" correct="yes">4</answer>
+        <answer code="1" correct="no">2</answer>
+        <answer code="2" correct="yes">3</answer>
+        <answer code="3" correct="yes">4</answer>
+        <answer code="1" correct="no">2</answer>
+        <answer code="2" correct="yes">3</answer>
+        <answer code="3" correct="yes">4</answer>
+      </answers>
+    </variant>
+  </task>
+  <task code="7">
+    <variant answer-type="single" code="1">
+      <question>Сколько ножек?</question>
+      <answers>
+        <answer code="1" correct="no">2</answer>
+        <answer code="2" correct="yes">4</answer>
+        <answer code="3" correct="no">6</answer>
+      </answers>
+    </variant>
+  </task>
+  <task code="13">
+    <variant answer-type="single" code="1">
+      <question>Прозрачность - это...</question>
+      <answers>
+        <answer code="1" correct="no">black;</answer>
+        <answer code="2" correct="no">true;</answer>
+        <answer code="3" correct="no">darke;</answer>
+        <answer code="4" correct="yes">block.</answer>
+        <answer code="1" correct="no">black;</answer>
+        <answer code="2" correct="no">true;</answer>
+        <answer code="3" correct="no">darke;</answer>
+        <answer code="4" correct="yes">block.</answer>
+        <answer code="1" correct="no">black;</answer>
+        <answer code="2" correct="no">true;</answer>
+        <answer code="3" correct="no">darke;</answer>
+        <answer code="4" correct="yes">block.</answer>
+        <answer code="1" correct="no">black;</answer>
+        <answer code="2" correct="no">true;</answer>
+        <answer code="3" correct="no">darke;</answer>
+        <answer code="4" correct="yes">block.</answer>
+        <answer code="1" correct="no">black;</answer>
+        <answer code="2" correct="no">true;</answer>
+        <answer code="3" correct="no">darke;</answer>
+        <answer code="4" correct="yes">block.</answer>
+      </answers>
+    </variant>
+  </task>
+  <task code="12">
+    <variant answer-type="single" code="1">
+      <question>Симметричность - это...</question>
+      <answers>
+        <answer code="1" correct="no">ввввввввввввв</answer>
+        <answer code="2" correct="yes">сссссссссссссссссс</answer>
+        <answer code="3" correct="no">ппппппппппппппппппп</answer>
+        <answer code="4" correct="no">ффффффффффффффффф</answer>
+      </answers>
+    </variant>
+  </task>
+  <task code="14">
+    <variant answer-type="single" code="1">
+      <question>Пропорциональность - это</question>
+      <answers>
+        <answer code="1" correct="no">ччччччч</answer>
+        <answer code="2" correct="yes">мммммммммммм</answer>
+        <answer code="3" correct="no">фффффффффф</answer>
+      </answers>
+    </variant>
+  </task>
+  <task code="15">
+    <variant answer-type="multiple" code="1">
+      <question>Логирование - это</question>
+      <answers>
+        <answer code="1" correct="no">ааааааааааа</answer>
+        <answer code="2" correct="yes">иииииииииииииии</answer>
+        <answer code="3" correct="yes">чччччччччччччччччччч</answer>
+        <answer code="4" correct="no">ллллллллллллллллллллл</answer>
+        <answer code="5" correct="yes">ффффффффффффффффффффф</answer>
+      </answers>
+    </variant>
+  </task>
+</tasks>

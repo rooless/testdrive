@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<tasks>
+	<task code="23">
+		<variant answer-type="single" code="1">
+			<question level="3" mark="5">jkjhkkjkjjk</question>
+			<answers>
+				<answer code="1" correct="no">свойство каналов передачи данных</answer>
+				<answer code="1" correct="yes">свойство каналов передачи данных</answer>
+				<answer code="1" correct="no">принцип составление программы</answer>
+				<answer code="4" correct="no">свойство управления данными</answer>
+			</answers>
+		</variant>
+		<variant answer-type="single" code="2">
+			<question level="2" mark="2">fgdfgdfgdfgdfgdfgd</question>
+			<answers>
+				<answer code="1" correct="no">свойство каналов передачи данных</answer>
+				<answer code="2" correct="yes">реализация принципа "умолчания" при передаче данных</answer>
+				<answer code="3" correct="no">принцип составление программы</answer>
+				<answer code="4" correct="no">свойство управления данными</answer>
+			</answers>
+		</variant>
+	</task>
+	<task code="2">
+		<variant answer-type="multiple" code="1">
+			<question level="2" mark="2">Кризис квалификации работников связан с ...</question>
+			<answers>
+				<answer code="1" correct="no">недостатком центров переобучения</answer>
+				<answer code="2" correct="no">возможностью нанять на работу виртуальных работников</answer>
+				<answer code="3" correct="yes">ленью сотрудников</answer>
+				<answer code="4" correct="yes">быстротой смены информационных технологий</answer>
+			</answers>
+		</variant>
+	</task>
+	<task code="3">
+		<variant answer-type="multiple" code="1">
+			<question level="2" mark="2">Экспертные системы создаются...</question>
+			<answers>
+				<answer code="1" correct="no">только экспертами</answer>
+				<answer code="2" correct="no">только специалистами по представлению знаний</answer>
+				<answer code="3" correct="yes">экспертами и специалистами по представлению знаний</answer>
+				<answer code="4" correct="yes">программистами</answer>
+			</answers>
+		</variant>
+	</task>
+	<task code="4">
+		<variant answer-type="single" code="1">
+			<question level="2" mark="2">Метод - это ...</question>
+			<answers>
+				<answer code="1" correct="no">совокупность правил решения</answer>
+				<answer code="2" correct="no">последовательность шагов решения</answer>
+				<answer code="3" correct="no">алгоритм решения</answer>
+				<answer code="4" correct="yes">система принципов и приемов деятельности или познания</answer>
+			</answers>
+		</variant>
+	</task>
+	<task code="5">
+		<variant answer-type="multiple" code="1">
+			<question level="2" mark="2">Системы групповой работы применяются ...</question>
+			<answers>
+				<answer code="1" correct="yes">в корпоративных информационных системах</answer>
+				<answer code="2" correct="no">в интернет системах</answer>
+				<answer code="3" correct="no">самостоятельно</answer>
+				<answer code="4" correct="yes">совместно с электронной почтой</answer>
+			</answers>
+		</variant>
+	</task>
+	<task code="6">
+		<variant answer-type="single" code="1">
+			<question level="2" mark="2">Клиент - это...</question>
+			<answers>
+				<answer code="1" correct="no">локальная система управления базой данных</answer>
+				<answer code="2" correct="no">запрос приложения</answer>
+				<answer code="3" correct="yes">приложение, выдающее запрос к базе данных</answer>
+				<answer code="4" correct="no">запрос пользователя к удаленной базе данных</answer>
+			</answers>
+		</variant>
+	</task>
+	<task code="7">
+		<variant answer-type="single" code="1">
+			<question level="2" mark="2">Технология мультимедиа обеспечивает работу в...</question>
+			<answers>
+				<answer code="1" correct="no">режиме разделения времени</answer>
+				<answer code="2" correct="yes">режиме реального времени</answer>
+				<answer code="3" correct="no">интерактивном режиме</answer>
+				<answer code="4" correct="no">сетевом режиме</answer>
+			</answers>
+		</variant>
+	</task>
+</tasks>
